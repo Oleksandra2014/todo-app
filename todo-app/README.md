@@ -1,6 +1,6 @@
 # Simple To-Do Application
 
-This project is a simple To-Do application built using React for the front-end and Node.js with Express for the back-end. The application allows users to add, complete (put tick at the checkbox), delete, and refresh to-do items (provide list of do-to items, that was not ticked/completed yet).
+This project is a simple To-Do application built using React for the front-end and Node.js with Express for the back-end. The application allows users to add, complete (put a tick at the checkbox), delete, and refresh to-do items (provide a list of do-to items, that were not ticked/completed yet).
 
 ## Features
 - Add new to-do items
@@ -32,7 +32,7 @@ This project is a simple To-Do application built using React for the front-end a
 
 ### 1. Clone the repository
 ```terminal
-git clone https://github.com/link - change to appropriate link from the github
+git clone (https://github.com/Oleksandra2014/todo-app)
 cd simple
 ```
 
